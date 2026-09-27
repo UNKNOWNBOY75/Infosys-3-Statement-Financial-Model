@@ -97,3 +97,27 @@ The workbook includes charts showing:
 ## 📁 Files
 
 `Infosys_3-Statement_Financial_Model.xlsx` contains the complete financial model, assumptions, statements, forecasts, checks, and analysis.
+
+## 📊 Model Screenshots
+
+### Income Statement
+![Income Statement](Income%20statement.png)
+
+### Balance Sheet
+![Balance Sheet](Balance%20Sheet.png)
+
+### Cash Flow Statement
+![Cash Flow Statement](Cash%20Flow%20Statement.png)
+
+### Financial Analysis Dashboard
+![Financial Analysis Dashboard](Financial%20Analysis%20dashboard.png)
+
+## 📁 Project Files
+
+| File | Description |
+|---|---|
+| `Infosys_3-Statement_Financial_Model.xlsx` | Complete three-statement financial model |
+| `Income statement.png` | Income statement screenshot |
+| `Balance Sheet.png` | Balance sheet screenshot |
+| `Cash Flow Statement.png` | Cash flow statement screenshot |
+| `Financial Analysis dashboard.png` | Financial analysis dashboard |
